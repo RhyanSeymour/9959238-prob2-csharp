@@ -1,0 +1,10 @@
+C:\Users\9959238\desktop\9959238-prob2-csharp\bin\Debug\netcoreapp2.0\9959238-prob2-csharp.deps.json
+C:\Users\9959238\desktop\9959238-prob2-csharp\bin\Debug\netcoreapp2.0\9959238-prob2-csharp.runtimeconfig.json
+C:\Users\9959238\desktop\9959238-prob2-csharp\bin\Debug\netcoreapp2.0\9959238-prob2-csharp.runtimeconfig.dev.json
+C:\Users\9959238\desktop\9959238-prob2-csharp\bin\Debug\netcoreapp2.0\9959238-prob2-csharp.dll
+C:\Users\9959238\desktop\9959238-prob2-csharp\bin\Debug\netcoreapp2.0\9959238-prob2-csharp.pdb
+C:\Users\9959238\desktop\9959238-prob2-csharp\obj\Debug\netcoreapp2.0\9959238-prob2-csharp.csproj.CoreCompileInputs.cache
+C:\Users\9959238\desktop\9959238-prob2-csharp\obj\Debug\netcoreapp2.0\9959238-prob2-csharp.AssemblyInfoInputs.cache
+C:\Users\9959238\desktop\9959238-prob2-csharp\obj\Debug\netcoreapp2.0\9959238-prob2-csharp.AssemblyInfo.cs
+C:\Users\9959238\desktop\9959238-prob2-csharp\obj\Debug\netcoreapp2.0\9959238-prob2-csharp.dll
+C:\Users\9959238\desktop\9959238-prob2-csharp\obj\Debug\netcoreapp2.0\9959238-prob2-csharp.pdb
